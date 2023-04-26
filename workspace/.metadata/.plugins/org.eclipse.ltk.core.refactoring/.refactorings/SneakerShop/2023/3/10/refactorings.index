@@ -1,0 +1,27 @@
+1678018332198	Move 'favicon.ico' to 'assets'
+1678018335219	Move 'style.css' to 'assets'
+1678018357196	Copy folder
+1678018418566	Copy folder
+1678018426040	Delete element
+1678018429592	Move 5 resources to 'user'
+1678018438379	Move 2 resources to 'user'
+1678018599318	Move 'assets' to 'webapp'
+1678029195106	Move 'product.jsp' to 'user'
+1678117277424	Delete element
+1678117584389	Delete element
+1678117914236	Delete element
+1678333999526	Copy package
+1678334045851	Delete element
+1678334079366	Copy package
+1678334095742	Delete element
+1678334128034	Delete element
+1678334131595	Delete element
+1678334159821	Rename package 'SneakerShop.UserController.copy.copy'
+1678334350180	Copy compilation unit
+1678334358203	Delete element
+1678334590492	Rename type 'HomeDao'
+1678334816716	Rename package 'Controller.User'
+1678334840599	Rename package 'Controller.Admin'
+1678335273722	Delete element
+1678337994045	Rename type 'HomeImpl'
+1678338003050	Rename type 'IHome'

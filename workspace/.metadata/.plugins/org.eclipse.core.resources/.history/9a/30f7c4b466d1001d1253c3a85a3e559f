@@ -1,0 +1,28 @@
+package SneakerShop.Dao;
+
+import org.springframework.stereotype.Repository;
+
+import SneakerShop.Entity.Bills;
+
+@Repository
+public class BillsDao extends BaseDao{
+	
+	public int AddBills(Bills bill) {
+		public int AddBills(Bills bill) {
+			StringBuffer sql = new StringBuffer();
+			sql.append("INSERT INTO bills");
+			sql.append("( ");
+			sql.append("	`user`, `phone`, `display_name`, `address`, `total`, `quanty`, `note` ");
+			sql.append(") ");
+			sql.append("VALUES ");
+			sql.append("( ");
+			sql.append("	'"+bill.getUser()+"', ");
+			sql.append("	'"+bill.getPhone()+"', ");
+			sql.append("	'"+bill.getDisplay_name()+"', ");
+			sql.append("	'"+bill.getAddress()+"', ");
+			sql.append("	"+bill.getTotal()+", ");
+			sql.append("	"+bill.getQuanty()+", ");
+			sql.append("	'"+bill.getNote()+"', ");
+		}
+	}
+}

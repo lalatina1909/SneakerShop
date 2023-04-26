@@ -1,0 +1,7 @@
+package SneakerShop.Service.User;
+
+public interface IBillsService {
+	public int AddBills(Bills bill);
+	
+	public void AddBillsDetail(HashMap<Long, CartDto> carts);
+}

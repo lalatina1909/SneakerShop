@@ -1,0 +1,15 @@
+package SneakerShop.Service.User;
+
+import java.util.HashMap;
+
+import org.springframework.stereotype.Service;
+
+import SneakerShop.Dto.CartDto;
+import SneakerShop.Entity.Bills;
+
+@Service
+public interface IBillsService {
+	public int AddBills(Bills bill);
+	
+	public void AddBillsDetail(HashMap<Long, CartDto> carts);
+}

@@ -1,0 +1,7 @@
+package SneakerShop.Service.User;
+
+public interface IAccountService {
+	public int AddAccount(Users user);
+	
+	public int CheckAccount(Users user);
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;demotemplate.UserController.package-info.java&apos; to &apos;HomeController.java&apos;&#x0D;&#x0A;- Original project: &apos;demotemplate&apos;&#x0D;&#x0A;- Original element: &apos;demotemplate.UserController.package-info.java&apos;&#x0D;&#x0A;- Renamed element: &apos;demotemplate.UserController.HomeController.java&apos;" description="Rename compilation unit &apos;package-info.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;demotemplate.UserController{package-info.java" name="HomeController.java" references="false" stamp="1678357914311" version="1.0"/>
+</session>

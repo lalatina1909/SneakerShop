@@ -1,0 +1,10 @@
+package SneakerShop.Service.User;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public interface IAccountService {
+	public int AddAccount(Users user);
+	
+	public int CheckAccount(Users user);
+}
